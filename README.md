@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eddiesxia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java/go/k8s
-- 📫 How to reach me eddiesxia@gmail.com
+- 📫 How to reach me gmail.com
 
 <!---
 eddiesxia/eddiesxia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
